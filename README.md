@@ -1,3 +1,3 @@
 # projeto-seguimenta-clientes
 
-Esse projeto tem como objetivo principal desenvolver um algoritmo para segmentação de clientes do ifood, com objetivo de realizar um marketing analytics.
+Esse projeto tem como objetivo principal desenvolver um algoritmo para segmentação de clientes do ifood, no qual se pretende análisar quais são os pedidos realizados em determinados dias da semana, verificando localidade, horário, dia, valores e produtos solicitados. Para isso foi utilizado linguagem de programação python, o dataset disponibilizado no site do kaggle e o modelo de machine learning Kmeans verificando o número de clusters entre os dados. A partir disso, pode ser realizado uma análise podendo ser possível um aumento de receita em determinados dias da semana. 
